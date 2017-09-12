@@ -2,7 +2,8 @@
 
 1. What is it? 
 2. What makes it functional?
-
+3. Editing a lesson
+4. Does it work from the editor?
 ## Instructions
 
 Make the tests pass.
